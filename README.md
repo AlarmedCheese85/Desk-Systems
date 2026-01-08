@@ -144,7 +144,15 @@ Create a **dedicated display** that shows PC/server status at a glance, with no 
 - Wiring diagrams
 - Customization guide
 
+## Future Expansion Ideas
+- Web-based configuration tool
+- Modular, interchangeable enclosures
+- Network-based desk monitoring/control
+- Multi-display support
+- Open-source community-driven configurations
+
 ---
 
-## Repository Structure
+## License
+This project is open-source. See the `LICENSE` file for details.
 
